@@ -1,0 +1,66 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/diabetes-with-complications-amyotrophy---primary.py
+inputModule3:
+  class: File
+  path: python/noninsulindependent-diabetes-with-complications---primary.py
+inputModule4:
+  class: File
+  path: python/neuropathy-diabetes-with-complications---primary.py
+inputModule5:
+  class: File
+  path: python/neurological-diabetes-with-complications---primary.py
+inputModule6:
+  class: File
+  path: python/diabetes-with-complications-prolif---primary.py
+inputModule7:
+  class: File
+  path: python/renal-diabetes-with-complications---primary.py
+inputModule8:
+  class: File
+  path: python/diabetes-with-complications-cataract---primary.py
+inputModule9:
+  class: File
+  path: python/diabetes-with-complications-onset---primary.py
+inputModule10:
+  class: File
+  path: python/ophthalmic-diabetes-with-complications---primary.py
+inputModule11:
+  class: File
+  path: python/retinopathy-diabetes-with-complications---primary.py
+inputModule12:
+  class: File
+  path: python/nephropathy-diabetes-with-complications---primary.py
+inputModule13:
+  class: File
+  path: python/diabetes-with-complications-unspecified---primary.py
+inputModule14:
+  class: File
+  path: python/maculopathy-diabetes-with-complications---primary.py
+inputModule15:
+  class: File
+  path: python/diabetes-with-complications-manifestation---primary.py
+inputModule16:
+  class: File
+  path: python/diabetes-with-complications-gastroparesis---primary.py
+inputModule17:
+  class: File
+  path: python/juvenile-diabetes-with-complications---primary.py
+inputModule18:
+  class: File
+  path: python/diabetes-with-complications-background---primary.py
+inputModule19:
+  class: File
+  path: python/diabetes-with-complications---primary.py
+inputModule20:
+  class: File
+  path: python/multiple-diabetes-with-complications---primary.py
+inputModule21:
+  class: File
+  path: python/diabetes-with-complications-circulatory---primary.py
+inputModule22:
+  class: File
+  path: python/output-cases.py
